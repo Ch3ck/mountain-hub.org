@@ -333,7 +333,7 @@ body {
 }
 
 .regular-text {
-    font-size: 16px;
+    font-size: 18px;
     font-weight:400; 
 }
 
@@ -1418,7 +1418,7 @@ span.num {
     border-right: 1px solid #fff;
 }
 .contact-info li a {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: #fff;
     line-height: 14px;
@@ -1578,8 +1578,8 @@ span.num {
 }
 
 .copyright p {
-    color: #c4c4c4;
-    font-size: 12px;
+    color: #000000;
+    font-size: 14px;
     line-height: 20px;
 }
 
