@@ -610,10 +610,10 @@ header.nav.hide-menu {
 }
 
 .home-subtitle {
-  font-size: 18px;
+  font-size: 38px;
   font-weight: 300;
   margin-bottom: 38px;
-  text-transform: uppercase;
+  text-transform: camelcase;
 }
 
 .home-content > a.btn-large i {
