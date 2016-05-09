@@ -1540,6 +1540,10 @@ span.num {
   color: #3b5998;
 }
 
+.social-icons li a.github:hover {
+  color: #3b5998;
+}
+
 .social-icons li a.linkedin:hover {
   color: #0976b4;
 }
