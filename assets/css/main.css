@@ -35,6 +35,7 @@
 
   12. Fun Facts Styles
 
+
   13. Contact Styles
 
   14. Footer Styles
@@ -347,6 +348,7 @@ section.cyan {
 
 .main-section {
     overflow: hidden;
+
 }
 
 section.brand-bg .title {
@@ -689,6 +691,7 @@ header.nav.hide-menu {
 .home-content > a.btn-large {
     padding-right: 15px;
     padding-left: 15px;
+
 }
 
 .person-about > a.btn-large i {
@@ -1051,6 +1054,7 @@ header.nav.hide-menu {
     content: '';
     display: inline-block;
     vertical-align: middle;
+
     height: 100%;
     min-width: 1px;
     margin-left: -6px;
@@ -1363,6 +1367,7 @@ span.num {
     color: #dbdbdb;
     font-size: 60px;
     margin-bottom: 13px;
+
     display: block;
     
 }
@@ -1713,6 +1718,7 @@ span.num {
 
     .ir a:after,
     a[href^="javascript:"]:after,
+
     a[href^="#"]:after {
         content: "";
     }
