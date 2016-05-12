@@ -1608,8 +1608,11 @@
 .white {
   background-color: #FFFFFF !important; }
 
-.dark-text {
+.dark-grey-text {
   color: #414042 !important; }
+
+.dark-green-text {
+  color: #88CC00 !important; }
 
 /*** Colors ***/
 /*** Badges ***/
