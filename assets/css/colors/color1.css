@@ -1,33 +1,33 @@
 .brand-text {
-    color: #00bcd4 !important;
+    color: #88CC00 !important;
 }
 
 .brand-text i {
-    color: #00bcd4 !important;
+    color: #88CC00 !important;
 }
 
 .brand-bg,
 .sweet-alert button {
-    background-color: #00bcd4 !important;
+    background-color: #88CC00 !important;
 }
 
 .waves-effect.waves-brand  {
-    background-color: rgba(0, 188, 212, 0.66);
+    background-color: rgba(136, 204, 0, 0.5);
 }
 
 .p-overlay {
-    background-color: rgba(0, 188, 212, 0.9);
+    background-color: rgba(136, 204, 0, 0.5);
 }
 
 
 .circle-loader .path {
-    stroke: #00bcd4;
+    stroke: #88CC00;
 }
 
 
 .side-nav  li.current a,
 .side-nav  li a:hover {
-    border-bottom-color: #00bcd4;
+    border-bottom-color: #88CC00;
 }
 
 .static-menu li i:hover,
@@ -44,7 +44,7 @@
 .share-post li a:hover,
 .com-title a,
 span.num {
-    color: #00bcd4;
+    color: #88CC00;
 }
 
 .singel-hr-inner,
@@ -57,42 +57,42 @@ span.num {
 .contact-form .submit-btn:focus,
 a.tags,
 .blog-inner .card-content a.right:active {
-    background-color: #00bcd4;
+    background-color: #88CC00;
 }
 
 .contact-form .materialize-textarea:focus,
 .contact-form .input-box:focus {
-    border-color: #00bcd4;
-    box-shadow: 0px 1px 0px #00bcd4;
+    border-color: #88CC00;
+    box-shadow: 0px 1px 0px #88CC00;
 }
 
 
 .single-post-content blockquote {
-    border-left: 5px solid #00bcd4;
+    border-left: 5px solid #88CC00;
 }
 
 
 
 @-webkit-keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #88CC00;}
+    20%  {stroke: #88CC00;}
+    25%  {stroke: #88CC00;}
+    45%  {stroke: #88CC00;}
+    50%  {stroke: #88CC00;}
+    70%  {stroke: #88CC00;}
+    75%  {stroke: #88CC00;}
+    95%  {stroke: #88CC00;}
 }
 
 @keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #88CC00;}
+    20%  {stroke: #88CC00;}
+    25%  {stroke: #88CC00;}
+    45%  {stroke: #88CC00;}
+    50%  {stroke: #88CC00;}
+    70%  {stroke: #88CC00;}
+    75%  {stroke: #88CC00;}
+    95%  {stroke: #88CC00;}
 }
 
 
@@ -102,6 +102,6 @@ a.tags,
 
 
 .menu-select [type="radio"]:checked + label:after {
-    border-color: #00bcd4;
-    background-color: #00bcd4;
+    border-color: #88CC00;
+    background-color: #88CC00;
 }
