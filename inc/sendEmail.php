@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 're.enter.rupok@gmail.com';
+$siteOwnersEmail = 'contact@mountain-hub.org';
 
 if($_POST) {
 
