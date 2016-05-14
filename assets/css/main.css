@@ -1233,6 +1233,34 @@ header.nav.hide-menu {
      color: #727272;
 }
 
+.white-text-bold {
+  color: #FFFFFF !important; 
+  font-weight: bold;
+  font-size: 30px;       }
+
+.white-text-normal {
+  color: #FFFFFF !important; 
+  font-size: 20px;
+  text-transform: camelcase;         }
+
+.dark-grey-text-bold {
+  color: #414042 !important;
+  font-weight: bold;
+  font-size: 20px; }
+
+.dark-grey-text-normal {
+  color: #414042 !important; 
+  font-size: 20px; }
+
+.dark-green-text-bold {
+  color: #88CC00 !important; 
+  font-weight: bold;
+  /*font-size: 20px;*/ }
+
+.dark-green-text-normal {
+  color: #88CC00 !important; 
+  font-size: 20px; }
+
 .blog-post-thumb {
     position: relative;
 }
