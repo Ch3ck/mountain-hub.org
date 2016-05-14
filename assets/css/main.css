@@ -1252,6 +1252,11 @@ header.nav.hide-menu {
   color: #414042 !important; 
   font-size: 20px; }
 
+.dark-grey-text-small  {
+  color: #414042 !important; 
+  font-weight: bold;
+  font-size: 10px; }
+
 .dark-green-text-bold {
   color: #88CC00 !important; 
   font-weight: bold;
